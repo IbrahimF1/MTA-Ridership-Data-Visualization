@@ -3,6 +3,8 @@
 
 **Author:** Ibrahim Faruquee  
 
+![Side-by-side animation showing spatial ridership and top-10 busiest stations per hour.](nyc_subway_average_hourly_ridership_with_map_and_graph.gif)
+
 ***
 
 ## Table of Contents
